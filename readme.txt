@@ -6,3 +6,6 @@ https://www.kernel.org/doc/Documentation/cgroup-v1/
 redhat
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.4_release_notes/index
 https://blog.51cto.com/pankuo/2044871
+
+linux
+https://www.cnblogs.com/hummersofdie/p/3645218.html
