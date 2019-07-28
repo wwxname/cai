@@ -14,3 +14,6 @@ https://www.cnblogs.com/pengmn/p/8034893.html
 
 导航栏
 https://blog.csdn.net/yanghaonan7758/article/details/71077342
+vue
+https://cn.vuejs.org/v2/guide/single-file-components.html
+
