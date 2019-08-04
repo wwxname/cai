@@ -10,6 +10,10 @@ https://blog.51cto.com/pankuo/2044871
 linux
 https://www.cnblogs.com/hummersofdie/p/3645218.html
 https://www.cnblogs.com/holyxp/archive/2018/10/11/9760084.html
+
+
+
+http://blog.sina.com.cn/s/blog_6da67ec20100xpof.html
 c header
 https://www.cnblogs.com/pengmn/p/8034893.html
 https://my.oschina.net/lngligelang/blog/223200
