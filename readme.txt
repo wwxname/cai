@@ -11,6 +11,12 @@ linux
 https://www.cnblogs.com/hummersofdie/p/3645218.html
 https://www.cnblogs.com/holyxp/archive/2018/10/11/9760084.html
 
+2.  找到Linux的/boot分区，以及/根分区所在的磁盘位置
+输入 cat (hd0,gpt2)/etc/fstab
+会输出类似下面的信息
+# <file system> <mount point> <type> <options> <dump> <pass>
+# / was on /dev/sda2 during installation
+UUID=dd6e0539-1369-4938-8af5-378f02cf05cf /               ext4    errors=remount-ro 0       1
 
 
 http://blog.sina.com.cn/s/blog_6da67ec20100xpof.html
