@@ -35,3 +35,7 @@ https://blog.csdn.net/Y0Q2T57s/article/details/80682013?depth_1-utm_source=distr
 
 https://blog.csdn.net/weixin_44946117/article/details/90607041?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
 
+
+linux threads
+https://www.ibm.com/developerworks/cn/linux/l-threading.html
+
