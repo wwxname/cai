@@ -38,4 +38,6 @@ https://blog.csdn.net/weixin_44946117/article/details/90607041?depth_1-utm_sourc
 
 linux threads
 https://www.ibm.com/developerworks/cn/linux/l-threading.html
+https://www.jianshu.com/p/3ce1b5e5a55e
+
 
