@@ -9,12 +9,21 @@ public class App {
                 // TODO Auto-generated method stub
                 while (true) {
                     try {
-                
-                        Thread.sleep(3000);
+                        Thread.sleep(4);
                         i++;
-                        System.err.println(
-                             i
-                        );
+                        new Thread(new Runnable() {
+                            @Override
+                            public void run() {
+                                // TODO Auto-generated method stub
+                                try {
+                                    Thread.sleep(400000);
+                                } catch (InterruptedException e) {
+                                    // TODO Auto-generated catch block
+                                    e.printStackTrace();
+                                }
+                            }
+                        }).start();
+                        System.err.println(i);
                     } catch (InterruptedException e) {
                         // TODO Auto-generated catch block
                         e.printStackTrace();
@@ -24,7 +33,7 @@ public class App {
             }
         });
         t1.setName("wwx");
-        // t1.start();
+        t1.start();
 
         try {
             Thread.sleep(3000000);
