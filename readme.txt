@@ -41,3 +41,10 @@ https://www.ibm.com/developerworks/cn/linux/l-threading.html
 https://www.jianshu.com/p/3ce1b5e5a55e
 
 
+-classpath /home/wwx/jdk1.7/bin demo
+
+/home/wwx/CLionProjects/hotspot-dev/build/linux/linux_amd64_compiler2/product
+
+JAVA_HOME /home/wwx/jdk1.7
+LD_LIBRARY_PATH ${JAVA_HOME}/jre/lib/amd64:
+
