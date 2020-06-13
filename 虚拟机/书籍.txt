@@ -2,3 +2,7 @@ JVM高级特性与最佳实践
 https://www.jb51.net/books/631962.html
 JVM G1源码分析和调优
 https://www.jianshu.com/p/051fd2065be6
+https://www.zhihu.com/question/388069403
+https://blog.csdn.net/twt936457991/article/details/89736582
+https://blogs.oracle.com/jonthecollector/our-collectors
+https://blog.csdn.net/snow_114/article/details/80214332?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-6
