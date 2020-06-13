@@ -1,3 +1,4 @@
 JVM高级特性与最佳实践
 https://www.jb51.net/books/631962.html
 JVM G1源码分析和调优
+https://www.jianshu.com/p/051fd2065be6
